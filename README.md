@@ -15,7 +15,7 @@ Technologies used: HTML, PHP, Javascript, MySQL database.
 
 ## Visit the project
 
-You can check it out the [**project**]() here.
+You can check it out the [**project**](https://github.com/samhari07/CODSOFT_WEB_DEVELOPMENT) here.
 
 
 </div>
